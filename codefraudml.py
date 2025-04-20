@@ -6,7 +6,7 @@ import seaborn as sns
 import warnings
 warnings.filterwarnings('ignore')
 
-amldt = pd.read_csv(r"Money_Laundering_Dataset.csv")
+amldt = pd.read_csv(r"Data.csv")
 
 amldt.head()
 
